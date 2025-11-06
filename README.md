@@ -1,3 +1,3 @@
 # SudoLM
 
-[SudoLM: Learning Access Control of Parametric Knowledge with Authorization Alignment](https://arxiv.org/pdf/2410.14676) (ACL 2025)
+[SudoLM: Learning Access Control of Parametric Knowledge with Authorization Alignment](https://aclanthology.org/2025.acl-long.1318/) (ACL 2025)
